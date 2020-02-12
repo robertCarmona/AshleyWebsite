@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #8860D0;
+}
+.navbar-light .navbar-brand {
+    color: #5Ab9eA;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #84cEEb;
+}
+.navbar-light .navbar-toggler {
+    border-color: #5Ab9eA;
+}
+.navbar-toggler:focus, .navbar-toggler:hover {
+    text-decoration: none;
+    background-color: #5680E9;
+}
